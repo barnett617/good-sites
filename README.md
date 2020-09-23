@@ -9,3 +9,4 @@ Some good sites bookmarks
 ## 博客
 
 - [http://hotu.co/cv/](http://hotu.co/cv/)
+- [html5动画示例](http://gnipbao.github.io/h5-test/menu.html)
